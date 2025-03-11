@@ -3,5 +3,5 @@
   "symbol": "BBT",
   "description": "A token for BeiBei Bear in Dalian.",
   "image": "https://raw.githubusercontent.com/woo2000/BeiBei/ea83f5371c4fe04da46e759457c61e81dc765c70/logo_256.png",
-  "showName":true,
+  "showName":true
 }
